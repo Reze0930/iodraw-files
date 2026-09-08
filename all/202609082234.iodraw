@@ -461,7 +461,7 @@
           <mxGeometry x="1400" y="150" width="200" height="100" as="geometry" />
         </mxCell>
         <mxCell id="s1" value="&lt;b style=&quot;font-size: 24px;&quot;&gt;配准系统项&lt;/b&gt;&lt;br style=&quot;font-size: 24px;&quot;&gt;&lt;font color=&quot;#6B7480&quot; style=&quot;font-size: 24px;&quot;&gt;u&lt;sub style=&quot;font-size: 24px;&quot;&gt;reg&lt;/sub&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#C9CFD6;strokeWidth=1.2;fontSize=24;fontColor=#14181D;arcSize=8;shadow=0;" parent="1" vertex="1">
-          <mxGeometry x="1121" y="380" width="180" height="72" as="geometry" />
+          <mxGeometry x="980" y="378" width="180" height="72" as="geometry" />
         </mxCell>
         <mxCell id="s2" value="&lt;b style=&quot;font-size: 24px;&quot;&gt;标定系统项&lt;/b&gt;&lt;br style=&quot;font-size: 24px;&quot;&gt;&lt;font color=&quot;#6B7480&quot; style=&quot;font-size: 24px;&quot;&gt;u&lt;sub style=&quot;font-size: 24px;&quot;&gt;cal&lt;/sub&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#C9CFD6;strokeWidth=1.2;fontSize=24;fontColor=#14181D;arcSize=8;shadow=0;" parent="1" vertex="1">
           <mxGeometry x="1330" y="380" width="180" height="72" as="geometry" />
