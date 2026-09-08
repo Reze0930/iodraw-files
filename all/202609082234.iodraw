@@ -334,11 +334,11 @@
     </mxGraphModel>
   </diagram>
   <diagram name="1-质量控制边界" id="gZx_7OtiF3v1O466mhs_">
-    <mxGraphModel dx="1719" dy="1025" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1600" pageHeight="540" math="0" shadow="0">
+    <mxGraphModel dx="2427" dy="1447" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1600" pageHeight="540" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="frame" value="扩展验证项 · 多场景适配与长周期观测" style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;strokeColor=#C9CFD6;strokeWidth=1;dashed=1;dashPattern=5 4;verticalAlign=top;align=left;spacingLeft=16;spacingTop=12;fontSize=11;fontColor=#6B7480;arcSize=3;" parent="1" vertex="1">
+        <mxCell id="frame" value="&lt;font style=&quot;font-size: 20px;&quot;&gt;扩展验证项 · 多场景适配与长周期观测&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;strokeColor=#C9CFD6;strokeWidth=1;dashed=1;dashPattern=5 4;verticalAlign=top;align=left;spacingLeft=16;spacingTop=12;fontSize=11;fontColor=#6B7480;arcSize=3;" parent="1" vertex="1">
           <mxGeometry x="100" y="299" width="1400" height="200" as="geometry" />
         </mxCell>
         <mxCell id="n1" value="&lt;b style=&quot;font-size: 22px;&quot;&gt;程序完成&lt;/b&gt;&lt;br style=&quot;font-size: 22px;&quot;&gt;&lt;font style=&quot;font-size: 22px;&quot; color=&quot;#6B7480&quot;&gt;流程与文件可运行&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;strokeWidth=1.2;fontSize=22;arcSize=8;shadow=0;horizontal=1;" parent="1" vertex="1">
